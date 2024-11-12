@@ -1,6 +1,8 @@
-# installation #
+# Installation 
+This setup assumes you have poetry installed 
 
-# this setup assumes you have poetry installed 
-'poetry install'
+# Steps
 
-'poetry run python app.py'
+1. `poetry install`
+
+2. `poetry run python app.py`
