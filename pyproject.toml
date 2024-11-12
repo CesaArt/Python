@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "seagulsplug"
+version = "0.1.0"
+description = "cositas"
+authors = ["chicharo"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+flexx = "^0.8.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
